@@ -21,8 +21,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- Konfiguratsiya va Fayl Yo'llari ---
-BOT_TOKEN = "7269655479:AAFnLkrZtysTbuVrILWCC_J0Wwfx_6xVwjE"  # Bu yerga bot tokeningizni kiriting
-ADMIN_IDS = [156402303, 305620565]  # Admin ID'larini kiriting
+BOT_TOKEN = ""  # Bu yerga bot tokeningizni kiriting
+ADMIN_IDS = []  # Admin ID'larini kiriting
 PRODUCTS_FILE = "products.json"
 USERS_FILE = "users.json"
 ORDERS_FILE = "orders.json"
