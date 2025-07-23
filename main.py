@@ -25,8 +25,8 @@
 # ORDERS_EXCEL_FILE = os.path.join(BASE_DIR, 'orders_export.csv')
 
 # LOW_STOCK_THRESHOLD = 5
-# BOT_TOKEN = "7269655479:AAFnLkrZtysTbuVrILWCC_J0Wwfx_6xVwjE"
-# ADMIN_USER_IDS = [156402303, 305620565,1831969115]  # O'zgartiring
+# BOT_TOKEN = ""
+# ADMIN_USER_IDS = []  # O'zgartiring
 
 # # --- FAYLLAR ---
 # def load_data(filename):
