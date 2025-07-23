@@ -5,9 +5,9 @@
 # from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
 # # --- SOZLAMALAR ---
-# BOT_TOKEN = "7269655479:AAFnLkrZtysTbuVrILWCC_J0Wwfx_6xVwjE"  # @BotFather dan olingan token
-# ADMIN_CHAT_ID = "-4882577198"  # Buyurtmalar keladigan guruh IDsi
-# ADMIN_USER_IDS = [156402303, 305620565]  # O'zingizning Telegram ID sini yozing
+# BOT_TOKEN = ""  # @BotFather dan olingan token
+# ADMIN_CHAT_ID = ""  # Buyurtmalar keladigan guruh IDsi
+# ADMIN_USER_IDS = []  # O'zingizning Telegram ID sini yozing
 # LOW_STOCK_THRESHOLD = 5 # Nechta mahsulot qolganda "kam qoldi" deb belgilash
 
 # # import os
