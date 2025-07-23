@@ -1,0 +1,49 @@
+{
+    "categories": [
+        {
+            "name": "🧸 Yumshoq o'yinchoqlar",
+            "slug": "soft_toys"
+        },
+        {
+            "name": "🧩 Konstruktorlar",
+            "slug": "constructors"
+        },
+        {
+            "name": "Qo'g'irchoqlar",
+            "slug": "dolls"
+        },
+        {
+            "name": " 🚗 Pultli mashinalar",
+            "slug": "remote_controlled_vehicles"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Ayiqcha 'Teddy'",
+            "price": 150000,
+            "category": "soft_toys",
+            "description": "Juda yumshoq va yoqimtoy ayiqcha.",
+            "stock": 110,
+            "photo_id": ""
+        },
+        {
+            "id": 2,
+            "name": "Lego 'City Police'",
+            "price": 350000,
+            "category": "constructors",
+            "description": "350 qismdan iborat politsiya uchastkasi.",
+            "stock": 23,
+            "photo_id": ""
+        },
+        {
+            "name": "Lego 192",
+            "price": 120000,
+            "description": "MAK PLAST BIZNES",
+            "category": "constructors",
+            "stock": 100,
+            "photo_id": "AgACAgIAAxkBAAPOaGEe8czfWWKw8vhY5vAWUb1NfikAArfzMRvrORBLHDVpDOKGu9EBAAMCAAN5AAM2BA",
+            "id": 3
+        }
+    ]
+}
